@@ -15,7 +15,6 @@ export default defineComponent({
 <template>
   <div class="home">
     <h1>Home page</h1>
-    <p>Change #2</p>
     <p>More changes...</p>
   </div>
 </template>
